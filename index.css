@@ -430,6 +430,11 @@ body {
   background: var(--text-color);
 }
 
+
+p{
+  
+}
+
 @media (max-width: 800px) {
   #profile {
     width: 90vw;
